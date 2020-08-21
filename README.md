@@ -1,4 +1,4 @@
-<h2>🙏🏻, I'm CALVIN! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>😎I'm CALVIN! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/XygjTu9F7IRj3lijJ7/giphy.gif" width="230">
 <p><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -23,3 +23,4 @@ Markdown                 2  hrs 1 min        █░░░░░░░░░░�
 Windows                  50 hrs 5 mins       ████████████████░░░░░░░░░   60.0%
 Linux                    20 hrs 5 mins       ████████░░░░░░░░░░░░░░░░░   40.0%
 ```
+😎
