@@ -24,7 +24,7 @@ Windows                  50 hrs 5 mins       ███████████�
 Linux                    20 hrs 5 mins       ████████░░░░░░░░░░░░░░░░░   40.0%
 ```
 
-![info](https://github-readme-stats.vercel.app/api?username=CalvinStudio&show_icons=true&count_private=true&hide=prs&theme=dracula)
+![info](https://github-readme-stats.vercel.app/api?username=CalvinStudio&show_icons=true&count_private=true&hide=prs&theme=synthwave)
 ![](https://visitor-badge.glitch.me/badge?page_id=CalvinStudio.readme)
           
 😎
