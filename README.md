@@ -30,4 +30,7 @@ Linux                    20 hrs 5 mins       ████████░░░�
 
 ![](https://visitor-badge.glitch.me/badge?page_id=CalvinStudio.readme)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CalvinStudio&repo=github-readme-stats)](https://github.com/CalvinStudio/SeisCL)
+
+
 😎
