@@ -25,19 +25,6 @@ Linux                    20 hrs 5 mins       ████████░░░�
 ```
 ![](https://github-readme-stats.vercel.app/api?username=CalvinStudio&theme=dark)
 
-name: WakaTime Readme
-on:
-  push:
-    branches:
-      - master
-  schedule:
-    - cron: '0 19 * * *'
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          CALVIN: ${{ secrets.CALVIN }}
+![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
           
 😎
