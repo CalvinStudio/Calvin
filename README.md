@@ -32,6 +32,5 @@ Linux                    20 hrs 5 mins       ████████░░░�
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CalvinStudio&repo=SeisCL)](https://github.com/CalvinStudio/SeisCL)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CalvinStudio)](https://github.com/CalvinStudio/SeisCL)
 
 😎
