@@ -1,4 +1,10 @@
 <h2>😎I'm CALVIN! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<style>
+  h2
+  {
+  color:red;
+}
+  </style>
 <img align='right' src="https://media.giphy.com/media/XygjTu9F7IRj3lijJ7/giphy.gif" width="230">
 <p><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
