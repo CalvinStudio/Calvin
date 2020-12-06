@@ -11,6 +11,8 @@ JUST DO IT!√
 <!--START_SECTION:waka-->
 ![Calvin's github stats](https://github-readme-stats.vercel.app/api?username=CalvinStudio&show_icons=true&theme=radical)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CalvinStudio&repo=calvinstudio.github.io)](https://github.com/CalvinStudio/calvinstudio.github.io)
+
 ![](https://visitor-badge.glitch.me/badge?page_id=CalvinStudio.readme)
 
 😎
