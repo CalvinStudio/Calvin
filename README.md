@@ -25,6 +25,9 @@ Linux                    20 hrs 5 mins       ████████░░░�
 ```
 
 ![info](https://github-readme-stats.vercel.app/api?username=CalvinStudio&show_icons=true&count_private=true&hide=prs&theme=synthwave)
+
 ![](https://visitor-badge.glitch.me/badge?page_id=CalvinStudio.readme)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
 😎
