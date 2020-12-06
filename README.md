@@ -26,12 +26,10 @@ Linux                    20 hrs 5 mins       ████████░░░�
 
 ![info](https://github-readme-stats.vercel.app/api?username=CalvinStudio&show_icons=true&count_private=true&hide=prs&theme=synthwave)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalvinStudio)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalvinStudio&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalvinStudio&layout=compact)](https://github.com/CalvinStudio)
+![Calvin's github stats](https://github-readme-stats.vercel.app/api?username=CalvinStudio&show_icons=true&theme=radical)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=CalvinStudio.readme)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CalvinStudio&show_icons=true&theme=radical)
 
 😎
