@@ -23,5 +23,5 @@ Markdown                 2  hrs 1 min        █░░░░░░░░░░�
 Windows                  50 hrs 5 mins       ████████████████░░░░░░░░░   60.0%
 Linux                    20 hrs 5 mins       ████████░░░░░░░░░░░░░░░░░   40.0%
 ```
-![](https://github-readme-stats.vercel.app/api?Calvin=mayandev&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=CalvinStudio&theme=dark)
 😎
