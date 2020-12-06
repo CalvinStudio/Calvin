@@ -28,6 +28,6 @@ Linux                    20 hrs 5 mins       ████████░░░�
 
 ![](https://visitor-badge.glitch.me/badge?page_id=CalvinStudio.readme)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalvinStudio)](https://github.com/CalvinStudio)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalvinStudio)
 
 😎
