@@ -26,8 +26,9 @@ Linux                    20 hrs 5 mins       ████████░░░�
 
 ![info](https://github-readme-stats.vercel.app/api?username=CalvinStudio&show_icons=true&count_private=true&hide=prs&theme=synthwave)
 
-![](https://visitor-badge.glitch.me/badge?page_id=CalvinStudio.readme)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalvinStudio)
 
+![](https://visitor-badge.glitch.me/badge?page_id=CalvinStudio.readme)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 😎
