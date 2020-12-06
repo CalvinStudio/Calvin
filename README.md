@@ -25,6 +25,6 @@ Linux                    20 hrs 5 mins       ████████░░░�
 ```
 ![](https://github-readme-stats.vercel.app/api?username=CalvinStudio&theme=dark)
 
-![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
+![](https://visitor-badge.glitch.me/badge?page_id=CalvinStudio.readme)
           
 😎
