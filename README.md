@@ -24,7 +24,7 @@ Windows                  50 hrs 5 mins       ███████████�
 Linux                    20 hrs 5 mins       ████████░░░░░░░░░░░░░░░░░   40.0%
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalvinStudio&langs_count=8)](https://github.com/CalvinStudio/SeisCL)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalvinStudio&repo=SeisCL&langs_count=8)](https://github.com/CalvinStudio/SeisCL)
 
 ![Calvin's github stats](https://github-readme-stats.vercel.app/api?username=CalvinStudio&show_icons=true&theme=radical)
 
