@@ -9,28 +9,8 @@ JUST DO IT!√
 ```
 ---
 <!--START_SECTION:waka-->
-**I'm an early 🐤** 
-```
-📊 **This week I spent my time on** 
-```
-```text
-💬 Languages: 
-C++                      66 hrs 40 mins      ████████████████████░░░░░   85.01%
-MATLAB                   12  hrs 57 mins     ████░░░░░░░░░░░░░░░░░░░░░   20.28% 
-Python                   12  hrs 57 mins     ███░░░░░░░░░░░░░░░░░░░░░░   20.28% 
-Markdown                 2  hrs 1 min        █░░░░░░░░░░░░░░░░░░░░░░░░   11.89% 
-💻 Operating Systems: 
-Windows                  50 hrs 5 mins       ████████████████░░░░░░░░░   60.0%
-Linux                    20 hrs 5 mins       ████████░░░░░░░░░░░░░░░░░   40.0%
-```
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalvinStudio&repo=SeisCL)](https://github.com/CalvinStudio/SeisCL)
-
 ![Calvin's github stats](https://github-readme-stats.vercel.app/api?username=CalvinStudio&show_icons=true&theme=radical)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=CalvinStudio.readme)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CalvinStudio&repo=SeisCL)](https://github.com/CalvinStudio/SeisCL)
-
 
 😎
